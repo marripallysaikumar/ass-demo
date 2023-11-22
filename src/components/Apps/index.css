@@ -1,0 +1,24 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.img-adjust {
+  width: 30px;
+  height: 30px;
+}
+
+.c {
+  margin: 12px;
+}
+
+button {
+  background-color: transparent;
+  border-width: 0px;
+  margin-right: 90px;
+}
+
+.mm {
+  display: flex;
+  justify-content: space-between;
+}
